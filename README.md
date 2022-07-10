@@ -1,7 +1,5 @@
 # HeleCloud
-
-About The Project
-This project is built to host a PHP application in AWS EC2 instance.
+Build to host a PHP application in AWS EC2 instance.
 
 Built With
 The project is built using,
